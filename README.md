@@ -7,7 +7,8 @@ This Problem has multiple constraints to address<br>
 2. Orders from one area are neatly clubbed together for maximum efficiency.<br>
 3. Each boy can carry a maximum of 8 units of medicines.<br>
 Create a route plan for the agents (10 agents) for ensuring these deliveries are done on time and that the delivery agents are back to the store by 7 pm.
-
+<br>
+<br>
 <b> Breaking down to solution</b><br>
 1) Find 10 number of closest points cluster to assign 10 agent to deliver the medicine
 2) Find the distance from shop to each delivery points
