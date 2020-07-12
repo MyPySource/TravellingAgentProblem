@@ -9,7 +9,7 @@ This Problem has multiple constraints to address<br>
 Create a route plan for the agents (10 agents) for ensuring these deliveries are done on time and that the delivery agents are back to the store by 7 pm.
 <br>
 <br>
-<h3> Breaking down to solution</h3><br>
+<h3> Breaking down to solution</h3>
 1) Find 10 number of closest points cluster to assign 10 agents to deliver the medicine<br>
 2) Find the distance from shop to each delivery points<br>
 3) Also find distance matrix to understand possible route available<br>
@@ -19,8 +19,9 @@ Create a route plan for the agents (10 agents) for ensuring these deliveries are
 To understand the problem better waysee real time geo-locations on map <br>
 https://www.google.com/maps/d/edit?mid=1CARxJ5R62SSaZk-5tHufsk72Um3Q2Sji&usp=sharing
 
-<h3>Code requirement</h3><br>
+<h3>Code requirement</h3>
 1) Python 3.*<br>
-2) pandas<br>
-3) numpy<br>
-4) ortools
+2) jupyter
+3) pandas<br>
+4) numpy<br>
+5) ortools
