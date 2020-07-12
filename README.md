@@ -3,7 +3,7 @@ Travelling Agent Problem constraints with the capacity that agent can carry in o
 
 <h1>Problem and Solution</h1>
 This Problem has multiple constraints to address<br>
-1. The time window for deliveries is met.<br>
+1. The time window for deliveries should be met.<br>
 2. Orders from one area are neatly clubbed together for maximum efficiency.<br>
 3. Each boy can carry a maximum of 8 units of medicines.<br>
 Create a route plan for the agents (10 agents) for ensuring these deliveries are done on time and that the delivery agents are back to the store by 7 pm.
