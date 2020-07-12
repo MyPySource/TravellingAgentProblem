@@ -21,7 +21,7 @@ https://www.google.com/maps/d/edit?mid=1CARxJ5R62SSaZk-5tHufsk72Um3Q2Sji&usp=sha
 
 <h3>Code requirement</h3>
 1) Python 3.*<br>
-2) jupyter
+2) jupyter<br>
 3) pandas<br>
 4) numpy<br>
 5) ortools
