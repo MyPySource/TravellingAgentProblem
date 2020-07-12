@@ -15,6 +15,6 @@ Create a route plan for the agents (10 agents) for ensuring these deliveries are
 3) Also find distance matrix to understand possible route available<br>
 4) Assign each clustor to each agent with minimum spanning tree<br>
 5) create a dict object to show agent and its route taken<br>
-
-To understand it better see real time geo-locations on map <br>
+<br>
+To understand the problem better waysee real time geo-locations on map <br>
 https://www.google.com/maps/d/edit?mid=1CARxJ5R62SSaZk-5tHufsk72Um3Q2Sji&usp=sharing
