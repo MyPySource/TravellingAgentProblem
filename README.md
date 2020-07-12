@@ -10,11 +10,11 @@ Create a route plan for the agents (10 agents) for ensuring these deliveries are
 <br>
 <br>
 <b> Breaking down to solution</b><br>
-1) Find 10 number of closest points cluster to assign 10 agent to deliver the medicine
-2) Find the distance from shop to each delivery points
-3) Also find distance matrix to understand possible route available
-4) Assign each clustor to each agent with minimum spanning tree 
-5) create a dict object to show agent and its route taken
+1) Find 10 number of closest points cluster to assign 10 agent to deliver the medicine<br>
+2) Find the distance from shop to each delivery points<br>
+3) Also find distance matrix to understand possible route available<br>
+4) Assign each clustor to each agent with minimum spanning tree<br>
+5) create a dict object to show agent and its route taken<br>
 
 To understand it better see real time geo-locations on map <br>
 https://www.google.com/maps/d/edit?mid=1CARxJ5R62SSaZk-5tHufsk72Um3Q2Sji&usp=sharing
